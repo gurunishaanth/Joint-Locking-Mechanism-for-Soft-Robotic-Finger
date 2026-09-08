@@ -1,7 +1,10 @@
 # Soft-Robotic-Finger
-This is for a backup of my thesis project. <br>
-i have some solidworks files some pdfs for the inital process. <br>
+This is the final backup of my thesis project. <br>
+I have some SolidWorks files and some PDFs from the initial process. <br>
+Guru Nishaanth Saravanan_MA.pdf is my final Thesis
 # Legend
-So,  RP means Rack and pinion mechanisms. <br>
-LA means linear actuator mechanisms. <br>
-EM means Electromagnetic Holder. <br>
+So, <br>
+RP means Rack and pinion mechanism. <br>
+CM means Compliant mechanism. <br>
+LA means linear actuator mechanism. <br>
+EM means Electromagnetic mechanism. <br>
